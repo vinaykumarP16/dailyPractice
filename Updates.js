@@ -7,3 +7,7 @@
 // jan17
     //tod - build other operations like delete and shifting
     //tom - revise full arrays in js
+
+// jan18 
+    //tod - build and understand how to reverse an array 
+    //tom - merge two sorted array
