@@ -11,3 +11,11 @@
 // jan18 
     //tod - build and understand how to reverse an array 
     //tom - merge two sorted array
+ 
+// jan19
+    //tod - building merge two sorted array
+    //tom - hash table increment
+    // HASHTABLE IS A TABLE WHERE IT WILL return and memory iwith both key and data
+    // hashfunction a function it generate the value of fixed length for each inputs
+    
+
